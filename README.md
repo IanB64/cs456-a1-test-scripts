@@ -54,4 +54,4 @@ Run ```chmod +x test.sh helper.sh```
     * ~1MB transferred or less due to packet loss
     * ceil(10485760/2048)+1 = 5120+1 packets transferred
     * less than or equal to 5121 packets received
-    * t9_output is of size 10MB (maybe way less because of the timeout)
+    * t10_output is of size 10MB (maybe way less because of the timeout)
